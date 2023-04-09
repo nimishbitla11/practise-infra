@@ -1,6 +1,6 @@
 ---
 Version: 8.5.87
-env: "" #dev/sit/uat/pt 
+env: "" #dev/sit/uat/pt/prod 
 artifact_version: ""
 nexus_user: ""
 nexus_password: ""  
